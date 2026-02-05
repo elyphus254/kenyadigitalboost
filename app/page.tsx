@@ -376,7 +376,7 @@ export default function HomePage() {
               className="relative h-[400px]"
             >
               <Image
-                src="/about.jfif"
+                src="/about.jpg"
                 alt="Design Workspace"
                 fill
                 className="rounded-2xl shadow-xl object-cover"
