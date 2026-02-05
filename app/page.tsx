@@ -169,7 +169,7 @@ export default function HomePage() {
               className="relative h-[400px]"
             >
               <Image
-                src="/nairobi.jfif"
+                src="/nairobi.jpg"
                 alt="Kenya Digital Landscape"
                 fill
                 className="rounded-2xl shadow-2xl object-cover"
@@ -236,7 +236,7 @@ export default function HomePage() {
             >
               <div className="absolute inset-0 opacity-10 group-hover:opacity-20 transition-opacity">
                 <Image
-                  src="/cad3.jfif"
+                  src="/cad3.jpg"
                   alt="Background"
                   fill
                   className="object-cover"
@@ -282,7 +282,7 @@ export default function HomePage() {
             >
               <div className="absolute inset-0 opacity-10 group-hover:opacity-20 transition-opacity">
                 <Image
-                  src="/cad2.jfif"
+                  src="/cad2.jpg"
                   alt="Background"
                   fill
                   className="object-cover"
@@ -327,7 +327,7 @@ export default function HomePage() {
             >
               <div className="absolute inset-0 opacity-10 group-hover:opacity-20 transition-opacity">
                 <Image
-                  src="/cad1.jfif"
+                  src="/cad1.jpg"
                   alt="Background"
                   fill
                   className="object-cover"
