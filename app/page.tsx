@@ -494,7 +494,7 @@ export default function HomePage() {
           {/* Social Media Links */}
           <div className="flex justify-center gap-4">
             <a
-              href="https://www.facebook.com/profile.php?id=61571695784408"
+              href="https://www.facebook.com/KenyaDigitalBoost/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 bg-white/10 rounded-full flex items-center justify-center hover:bg-white hover:text-purple-600 text-white transition-colors group"
