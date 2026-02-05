@@ -573,7 +573,7 @@ export default function HomePage() {
               </p>
               <div className="flex gap-4">
                 <a
-                  href="https://www.facebook.com/profile.php?id=61571695784408"
+                  href="https://www.facebook.com/KenyaDigitalBoost/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 bg-gray-900 rounded-full flex items-center justify-center hover:bg-purple-600 transition-colors group"
